@@ -1,5 +1,5 @@
 Class: Software Engineering;
 
-Favourite Topic: HMTL;
+Favourite Topic: Web Design;
 
 Goal: Learn Git.
