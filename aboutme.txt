@@ -1,0 +1,2 @@
+Hi my name is Dominic and I like to think I am pretty handy with python. I use it to make web
+and desktop apps and have a lot fun doing it :)
